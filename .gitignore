@@ -1,0 +1,15 @@
+# MPLAB X build artifacts
+R1/build/
+R1/dist/
+R1/debug/
+R1/disassembly/
+R1/nbproject/private/
+*.hex
+*.elf
+*.map
+
+# OS / editor cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
